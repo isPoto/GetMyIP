@@ -5,7 +5,7 @@ a tool to get your IP
 
 <a href="https://github.com/isPoto/GetYourIP/releases/download/2/GetYourIPByPotoVersion2.zip" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/209811676-4efe1313-5e2a-476c-856b-537c7ba196e7.png" alt="Download for Win" title="Download for Win"></a>
 
-Usage
+Usage  
 Run it, Click on the ip address to automatically copy it.
 
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>

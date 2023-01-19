@@ -8,6 +8,10 @@ a tool to get your IP
 Usage  
 Run it, Click on the ip address to automatically copy it.
 
+[FAQ](https://ispoto.github.io/FAQ/)
+
+
+
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
   kofiWidgetOverlay.draw('ispoto', {
@@ -17,3 +21,4 @@ Run it, Click on the ip address to automatically copy it.
     'floating-chat.donateButton.text-color': '#fff'
   });
 </script>
+

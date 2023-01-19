@@ -10,7 +10,9 @@ Run it, Click on the ip address to automatically copy it.
 
 [FAQ](https://ispoto.github.io/FAQ/)
 
+<a href="https://t.me/PotoChannel" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/212431345-fefeee9e-bc49-4d79-b6f8-5e969f8fcc9d.png" alt="Join Poto Channel" title="Join Poto Channel"></a>
 
+<a href="https://t.me/PotoGroup" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/212431353-c08c2501-42b7-460c-a310-c83e0d5195ab.png" alt="Join Poto Group" title="Join Poto Group"></a>
 
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
